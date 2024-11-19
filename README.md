@@ -22,3 +22,6 @@ Imagine a scenario:
    ```commandline
    streamlit run main.py
    ```
+
+## Architecture Diagram:
+![image](https://github.com/user-attachments/assets/b11baa28-0cf1-45f6-a739-2b14a74e0e20)
