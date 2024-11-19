@@ -1,6 +1,8 @@
-# JD_based_Cold_Email_Generator
-
 ![image](https://github.com/user-attachments/assets/d38b226b-2606-426e-a28d-3faf268e64bb)
+
+## Project Architecture Diagram:
+![image](https://github.com/user-attachments/assets/b11baa28-0cf1-45f6-a739-2b14a74e0e20)
+
 
 Cold email generator for services company using groq, langchain and streamlit. It allows users to input the URL of a company's careers page. The tool then extracts job listings from that page and generates personalized cold emails. These emails include relevant portfolio links sourced from a vector database, based on the specific job descriptions.
 
@@ -22,6 +24,3 @@ Imagine a scenario:
    ```commandline
    streamlit run main.py
    ```
-
-## Architecture Diagram:
-![image](https://github.com/user-attachments/assets/b11baa28-0cf1-45f6-a739-2b14a74e0e20)
